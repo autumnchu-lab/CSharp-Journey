@@ -1,7 +1,6 @@
 # Week 1 C# 基礎筆記（Session 1–4）
 
 > 範圍：Session 1–4。四個 Session 用**同一個 Console 專案**（`ConsoleApp2`，.NET 8，保留 `Main`）逐步演進。
-> 註記：Session 1–3 的內容整理自進度紀錄與目前程式碼；Session 4 的內容最完整。請你對照自己當時的理解，修正不準確的地方。
 
 ---
 
